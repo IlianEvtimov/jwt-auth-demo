@@ -15,7 +15,7 @@ A Spring Boot application demonstrating JWT (JSON Web Token) based authenticatio
 
 ## 🚀 Getting Started
 
-1. Open the file `src/main/resources/application.properties` and configure your local environment:
+1. Open the file `src/main/resources/application.yml` and configure your local environment:
 
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/your_db
